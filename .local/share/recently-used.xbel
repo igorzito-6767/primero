@@ -23,12 +23,13 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/itp.local/3049272/Documents/testegit.html" added="2026-05-12T17:38:30.194644Z" modified="2026-05-12T17:38:30.194648Z" visited="2026-05-12T17:38:30.194645Z">
+  <bookmark href="file:///home/itp.local/3049272/Documents/testegit.html" added="2026-05-12T17:38:30.194644Z" modified="2026-05-12T17:59:45.955780Z" visited="2026-05-12T17:38:30.194645Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
         <bookmark:applications>
           <bookmark:application name="codium" exec="&apos;codium %u&apos;" modified="2026-05-12T17:38:30.194646Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2026-05-12T17:59:45.955777Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
