@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Android Studio
+Comment=Crie aplicativos para Android
+Categories=Development;
+Exec=/opt/programs/android-studio/bin/studio
+Icon=/opt/programs/android-studio/bin/studio.svg
+Terminal=false
+Type=Application
+StartupNotify=true
+Hidden=false

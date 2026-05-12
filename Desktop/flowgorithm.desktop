@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Flowgorithm
+Comment=Fluxogramas para Lógica de Programação
+Categories=Development;
+Exec=/opt/programs/Flowgorithm/flowgorithm.sh
+Icon=/opt/programs/Flowgorithm/flowgorithm.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Hidden=false

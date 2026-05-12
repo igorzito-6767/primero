@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Podman Desktop
+Type=Application
+Exec=/opt/programs/podman-desktop-1.15.0/podman-desktop
+Keywords=containers;
+Icon=podman-desktop
+Categories=Utility;
+Comment=Run containers
+Hidden=false

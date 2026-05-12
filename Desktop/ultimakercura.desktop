@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Ultimaker Cura
+Comment=Design para Impressão 3D
+Categories=Graphics;
+Exec=/opt/programs/appimg/UltiMaker-Cura-5.11.0-linux-X64.AppImage
+Icon=/opt/ifsp/images/icons/cura.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Hidden=false

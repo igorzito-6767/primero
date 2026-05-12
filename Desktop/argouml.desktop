@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ArgoUML
+Comment=Diagramas UML
+GenericName=Diagram Editor
+Exec=/opt/programs/argouml-0.34/argouml2.sh
+Icon=/opt/programs/argouml-0.34/icon/argouml2.svg
+Type=Application
+StartupNotify=true
+Categories=Development;

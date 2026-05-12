@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Arduino IDE 2
+Comment=Desenvolva para placas Arduino
+Exec=/opt/programs/arduino2/arduino-ide
+Icon=/opt/programs/arduino2/resources/app/resources/icons/512x512.png
+Type=Application
+StartupNotify=true
+Categories=Development;IDE;

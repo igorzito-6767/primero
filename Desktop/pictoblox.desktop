@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=PictoBlox
+Exec=/opt/PictoBlox/pictoblox %U
+Terminal=false
+Type=Application
+Icon=pictoblox
+StartupWMClass=PictoBlox
+Comment=GraphicaL User Interface for creating and running PictoBlox projects
+Categories=Education;

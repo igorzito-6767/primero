@@ -1,0 +1,6 @@
+Command=/opt/ifsp/scripts/genmon/net_status.sh
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=15000
+Font=Ubuntu Sans Mono Medium 12
+

@@ -1,0 +1,6 @@
+Command=/opt/ifsp/scripts/genmon/sql_status.sh
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=15000
+Font=Noto Sans 9
+
